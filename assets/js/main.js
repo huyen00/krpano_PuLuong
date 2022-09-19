@@ -632,7 +632,7 @@ function close_image_duan_tra(){
     $("#icon_VR").on("click", function(e){
       krpano.call("webvr.enterVR()");
     });
-    // xử lý tắt bật xoay
+    // xu ly xoay
     $("#icon_unrotate").hide();
     $("#icon_rotate").on("click",function(e){
       $("#icon_unrotate").show();
@@ -645,17 +645,7 @@ function close_image_duan_tra(){
       krpano.call("toggleRotate()");
     });
 
-    // $("#icon_rotate").hide();
-    // $("#icon_unrotate").on("click",function(e){
-    //   $("#icon_rotate").show();
-    //   $("#icon_unrotate").hide();
-    //   krpano.call("toggleRotate()");
-    // });
-    // $("#icon_rotate").on("click",function(e){
-    //   $("#icon_rotate").hide();
-    //   $("#icon_unrotate").show();
-    //   krpano.call("toggleRotate()");
-    // });
+    
     // xu ly scene
     
     $("#icon_back").on("click",function(e){

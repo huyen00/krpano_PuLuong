@@ -129,13 +129,13 @@
 			<cube url="panos/1_toancanhbanngay_hoboi.tiles/pano_%s.jpg" />
 		</image>
            <hotspot name="spot7" style="hs_image_text"  ath="-114.538" atv="2.157" distorted="false" zoom="false"  />
-		    <layer name="text7" url="textfield.swf" css="font-weight: bold; color: 0xffffff; padding-top:10px" parent="hotspot[spot7]" align="top" html="Thác Hiêu" background="false" />
+		    <layer name="text7" url="textfield.swf" css="font-weight: bold;  color: 0xffffff; padding-top:10px" parent="hotspot[spot7]" align="top" html="Thác Hiêu" background="false" />
            
-             <hotspot name="spot9" style="hs_image_text"   ath="3.648" atv="-24.796" distorted="false" zoom="false"  />
-		    <layer name="text9" url="textfield.swf" css="font-weight: bold; color: 0xffffff; padding-top:10px" parent="hotspot[spot9]" align="top" html="Khu bảo tồn Thiên nhiên Pù Luông" background="false" />
+             <!-- <hotspot name="spot9" style="hs_image_text"   ath="3.648" atv="-24.796" distorted="false" zoom="false"  />
+		    <layer name="text9" url="textfield.swf" css="font-weight: bold;font-size:10px; color: 0xffffff; padding-top:10px" parent="hotspot[spot9]" align="top" html="Khu bảo tồn Thiên nhiên Pù Luông" background="false" /> -->
             <hotspot name="spot10" style="hs_image_text"  ath="109.307" atv="-1.079" distorted="false" zoom="false"  />
 		    <layer name="text10" url="textfield.swf" css="font-weight: bold; color: 0xffffff; padding-top:10px" parent="hotspot[spot10]" align="top" html="Bản Lác" background="false" />
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="-52.301" atv="70.561" linkedscene="scene_4_beboi_ngay" />
+		<hotspot name="spot1" style="hotspot_point" ath="-88.886" atv="81.325" linkedscene="scene_4_beboi_ngay" />
 
 
          <hotspot name="spotpoint19" ath="127.369" atv="47.639" style="Iconcallout_square" tag="point" descriptionid="spotpoint19_description" handcursor="false" tooltip="spotpoint19_tooltip"/>
@@ -178,11 +178,11 @@
         <hotspot name="spot7" style="hs_image_text"  ath="-114.538" atv="2.157" distorted="false" zoom="false"  />
 		    <layer name="text7" url="textfield.swf" css="font-weight: bold; color: 0xffffff; padding-top:10px" parent="hotspot[spot7]" align="top" html="Thác Hiêu" background="false" />
             
-             <hotspot name="spot9" style="hs_image_text"   ath="3.648" atv="-24.796" distorted="false" zoom="false"  />
-		    <layer name="text9" url="textfield.swf" css="font-weight: bold; color: 0xffffff; padding-top:10px" parent="hotspot[spot9]" align="top" html="Khu bảo tồn Thiên nhiên Pù Luông" background="false" />
+             <!-- <hotspot name="spot9" style="hs_image_text"   ath="3.648" atv="-24.796" distorted="false" zoom="false"  />
+		    <layer name="text9" url="textfield.swf" css="font-weight: bold;font-size:10px; color: 0xffffff; padding-top:10px" parent="hotspot[spot9]" align="top" html="Khu bảo tồn Thiên nhiên Pù Luông" background="false" /> -->
             <hotspot name="spot10" style="hs_image_text"  ath="109.307" atv="-1.079" distorted="false" zoom="false"  />
 		    <layer name="text10" url="textfield.swf" css="font-weight: bold; color: 0xffffff; padding-top:10px" parent="hotspot[spot10]" align="top" html="Bản Lác" background="false" />
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="-4.328" atv="18.524" linkedscene="scene_5_beboi_hoanghon" />
+		<hotspot name="spot1" style="hotspot_point" ath="1.74" atv="28.905" linkedscene="scene_5_beboi_hoanghon" />
 
           <hotspot name="spotpoint19" ath="80.672" atv="22.35" style="Iconcallout_square" tag="point" descriptionid="spotpoint19_description" handcursor="false" tooltip="spotpoint19_tooltip"/>
         <hotspot name="spotpoint19" devices="flash" zorder="3"/>
@@ -222,11 +222,13 @@
 		<image>
 			<cube url="panos/3_toancanhsangsom.tiles/pano_%s.jpg" />
 		</image>
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="-3.877" atv="18.537" linkedscene="scene_4_beboi_ngay" />
-        <layer name="text7" url="textfield.swf" css="font-weight: bold; color: 0xffffff; padding-top:10px" parent="hotspot[spot7]" align="top" html="Thác Hiêu" background="false" />
+		<hotspot name="spot1" style="hotspot_point" ath="-3.022" atv="26.514" linkedscene="scene_4_beboi_ngay" />
+        
+        <hotspot name="spot7" style="hs_image_text"  ath="-121.746" atv="-0.022" distorted="false" zoom="false"  />
+		    <layer name="text7" url="textfield.swf" css="font-weight: bold;  color: 0xffffff; padding-top:10px" parent="hotspot[spot7]" align="top" html="Thác Hiêu" background="false" />
            
-             <hotspot name="spot9" style="hs_image_text"   ath="3.648" atv="-24.796" distorted="false" zoom="false"  />
-		    <layer name="text9" url="textfield.swf" css="font-weight: bold; color: 0xffffff; padding-top:10px" parent="hotspot[spot9]" align="top" html="Khu bảo tồn Thiên nhiên Pù Luông" background="false" />
+             <!-- <hotspot name="spot9" style="hs_image_text"   ath="3.648" atv="-24.796" distorted="false" zoom="false"  />
+		    <layer name="text9" url="textfield.swf" css="font-weight: bold;color: 0xffffff; padding-top:10px" parent="hotspot[spot9]" align="top" html="Khu bảo tồn Thiên nhiên Pù Luông" background="false" /> -->
             <hotspot name="spot10" style="hs_image_text"  ath="106.97" atv="-3.007" distorted="false" zoom="false"  />
 		    <layer name="text10" url="textfield.swf" css="font-weight: bold; color: 0xffffff; padding-top:10px" parent="hotspot[spot10]" align="top" html="Bản Lác" background="false" />
 
@@ -294,7 +296,7 @@
 
 	</scene>
 
-<!-- skin_hotspotstyle -->
+<!-- hotspot_point -->
 	<scene name="scene_5_beboi_hoanghon" title="Bể bơi hoàng hôn" onstart="" thumburl="panos/5_beboi_hoanghon.tiles/thumb.jpg" lat="" lng="" heading="">
 
 		<view hlookat="30.118" vlookat="15.266" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />

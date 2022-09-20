@@ -5,7 +5,7 @@
         tour_soundson="true"
         tour_soundsvolume="100"
         tour_autotourenabled="false"
-        tour_autorotateenabled="false"
+        tour_autorotateenabled="true"
         tour_controlmodemousetype="moveto"
         tour_controlmodetouchtype="drag"
         tour_fullscreen="false"
@@ -136,7 +136,7 @@
 
 
   <!-- AUTOROTATION -->
-  <autorotate enabled="false"/>
+  <autorotate enabled="true"/>
   <krpano tour_autorotation_pausecounter="0"/>
   <krpano tour_autorotation_pauseplugin="0"/>
   <krpano tour_autorotation_openatstartplugin="0"/>
@@ -326,9 +326,7 @@ startautorotation();
   <action name="stopautotour">
     set(tour_autotourenabled, false);
     stopautotourtimer();
-stopautorotation();
-
-
+    stopautorotation();
     events.dispatch(onstopautotour);
   </action>
   <action name="autotourtimer">

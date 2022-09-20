@@ -439,8 +439,7 @@
        var title_scene= document.getElementById("name_scene");
          
        $("#name_scene").html(title2);
-     
-
+    
     ]]>
   </action>
 

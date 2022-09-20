@@ -622,10 +622,10 @@ function close_image_duan_tra(){
   
     
     // title scene html 
-    getSceneTitleName();
+    // getSceneTitleName();
     function getSceneTitleName(){ 
       var title = String( krpano.get("scene[get(xml.scene)].title") ); 
-      console.log("title ="+ title);
+      console.log("title ="+ title);     
       $("#name_scene").html(title);
     };
     // xu ly VR
@@ -633,7 +633,7 @@ function close_image_duan_tra(){
       krpano.call("webvr.enterVR()");
     });
     // xu ly xoay
-    $("#icon_unrotate").hide();
+    $("#icon_rotate").hide();
     $("#icon_rotate").on("click",function(e){
       $("#icon_unrotate").show();
       $("#icon_rotate").hide();

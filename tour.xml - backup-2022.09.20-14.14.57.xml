@@ -117,10 +117,10 @@
     <action name= "showHotSpot">
 		showtext([img src=%1 height=120px width=220px][/img][p style="color="#FF00FF""]%2[/p],Target);
 	</action>
-
+    
 <scene name="scene_2_toancanhbanngay" title="Toàn cảnh ban ngày" onstart="" thumburl="panos/2_toancanhbanngay.tiles/thumb.jpg" lat="20.46836253" lng="105.12055889" heading="0.0">
 
-		<view hlookat="29.584" vlookat="13.670" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+		<view hlookat="0.182" vlookat="16.278" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
 		<preview url="panos/2_toancanhbanngay.tiles/preview.jpg" />
 

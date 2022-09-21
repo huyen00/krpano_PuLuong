@@ -135,7 +135,7 @@
 		    <layer name="text9" url="textfield.swf" css="font-weight: bold;font-size:10px; color: 0xffffff; padding-top:10px" parent="hotspot[spot9]" align="top" html="Khu bảo tồn Thiên nhiên Pù Luông" background="false" /> -->
             <hotspot name="spot10" style="hs_image_text"  ath="109.307" atv="-1.079" distorted="false" zoom="false"  />
 		    <layer name="text10" url="textfield.swf" css="font-weight: bold; color: 0xffffff; padding-top:10px" parent="hotspot[spot10]" align="top" html="Bản Lác" background="false" />
-		<hotspot name="spot1" style="hotspot_point" ath="1.74" atv="28.905" linkedscene="scene_5_beboi_hoanghon" />
+		    <hotspot name="spot1" style="hotspot_point" ath="1.74" atv="28.905" linkedscene="scene_5_beboi_hoanghon" />
 
           <hotspot name="spotpoint19" ath="80.672" atv="22.35" style="Iconcallout_square" tag="point" descriptionid="spotpoint19_description" handcursor="false" tooltip="spotpoint19_tooltip"/>
         <hotspot name="spotpoint19" devices="flash" zorder="3"/>
@@ -145,11 +145,11 @@
         <hotspot name="spotpoint41" devices="flash" zorder="3"/>
         <hotspot name="spotpoint41" devices="html5" zorder="3" zorder2="1"/>
 
-        <hotspot name="spotpoint43" ath="-74.655" atv="14.235" style="Iconcallout_pano" tag="point" descriptionid="spotpoint43_description" handcursor="false" tooltip="spotpoint43_tooltip"/>
+        <hotspot name="spotpoint43" ath="-74.655" atv="14.235" style="Iconcallout_square" tag="point" descriptionid="spotpoint43_description" handcursor="false" tooltip="spotpoint43_tooltip"/>
         <hotspot name="spotpoint43" devices="flash" zorder="3"/>
         <hotspot name="spotpoint43" devices="html5" zorder="3" zorder2="1"/>
 
-         <hotspot name="spotpoint44" ath="-102.536" atv="20.255" style="Iconcallout_pano" tag="point" descriptionid="spotpoint44_description" handcursor="false" tooltip="spotpoint44_tooltip"/>
+         <hotspot name="spotpoint44" ath="-102.536" atv="20.255" style="Iconcallout_square" tag="point" descriptionid="spotpoint44_description" handcursor="false" tooltip="spotpoint44_tooltip"/>
         <hotspot name="spotpoint44" devices="flash" zorder="3"/>
         <hotspot name="spotpoint44" devices="html5" zorder="3" zorder2="1"/>
 
@@ -157,7 +157,7 @@
         <hotspot name="spotpoint50" devices="flash" zorder="3"/>
         <hotspot name="spotpoint50" devices="html5" zorder="3" zorder2="1"/>
 
-           <hotspot name="spotpoint51" ath="173.824" atv="25.386"  style="Iconcallout_pano" tag="point" descriptionid="spotpoint51_description" handcursor="false" tooltip="spotpoint51_tooltip"/>
+           <hotspot name="spotpoint51" ath="173.824" atv="25.386"  style="Iconcallout_square" tag="point" descriptionid="spotpoint51_description" handcursor="false" tooltip="spotpoint51_tooltip"/>
         <hotspot name="spotpoint51" devices="flash" zorder="3"/>
         <hotspot name="spotpoint51" devices="html5" zorder="3" zorder2="1"/>
 
@@ -198,7 +198,7 @@
         <hotspot name="spotpoint41" devices="flash" zorder="3"/>
         <hotspot name="spotpoint41" devices="html5" zorder="3" zorder2="1"/>
 
-        <hotspot name="spotpoint43" ath="-114.479" atv="30.068"  style="Iconcallout_pano" tag="point" descriptionid="spotpoint43_description" handcursor="false" tooltip="spotpoint43_tooltip"/>
+        <hotspot name="spotpoint43" ath="-114.479" atv="30.068"  style="Iconcallout_square" tag="point" descriptionid="spotpoint43_description" handcursor="false" tooltip="spotpoint43_tooltip"/>
         <hotspot name="spotpoint43" devices="flash" zorder="3"/>
         <hotspot name="spotpoint43" devices="html5" zorder="3" zorder2="1"/>
 
@@ -206,7 +206,7 @@
         <hotspot name="spotpoint50" devices="flash" zorder="3"/>
         <hotspot name="spotpoint50" devices="html5" zorder="3" zorder2="1"/>
 
-         <hotspot name="spotpoint51" ath="176.062" atv="28.476"  style="Iconcallout_pano" tag="point" descriptionid="spotpoint51_description" handcursor="false" tooltip="spotpoint51_tooltip"/>
+         <hotspot name="spotpoint51" ath="176.062" atv="28.476"  style="Iconcallout_square" tag="point" descriptionid="spotpoint51_description" handcursor="false" tooltip="spotpoint51_tooltip"/>
         <hotspot name="spotpoint51" devices="flash" zorder="3"/>
         <hotspot name="spotpoint51" devices="html5" zorder="3" zorder2="1"/>
 
@@ -251,15 +251,15 @@
         <hotspot name="spotpoint41" devices="flash" zorder="3"/>
         <hotspot name="spotpoint41" devices="html5" zorder="3" zorder2="1"/>
 
-        <hotspot name="spotpoint43" ath="-40.842" atv="21.135" style="Iconcallout_pano" tag="point" descriptionid="spotpoint43_description" handcursor="false" tooltip="spotpoint43_tooltip"/>
+        <hotspot name="spotpoint43" ath="-40.842" atv="21.135" style="Iconcallout_square" tag="point" descriptionid="spotpoint43_description" handcursor="false" tooltip="spotpoint43_tooltip"/>
         <hotspot name="spotpoint43" devices="flash" zorder="3"/>
         <hotspot name="spotpoint43" devices="html5" zorder="3" zorder2="1"/>
 
-         <hotspot name="spotpoint44"  ath="-67.06" atv="30.189" style="Iconcallout_pano" tag="point" descriptionid="spotpoint44_description" handcursor="false" tooltip="spotpoint44_tooltip"/>
+         <hotspot name="spotpoint44"  ath="-67.06" atv="30.189" style="Iconcallout_square" tag="point" descriptionid="spotpoint44_description" handcursor="false" tooltip="spotpoint44_tooltip"/>
         <hotspot name="spotpoint44" devices="flash" zorder="3"/>
         <hotspot name="spotpoint44" devices="html5" zorder="3" zorder2="1"/>
 
-         <hotspot name="spotpoint51" ath="165.436" atv="41.091"  style="Iconcallout_pano" tag="point" descriptionid="spotpoint51_description" handcursor="false" tooltip="spotpoint51_tooltip"/>
+         <hotspot name="spotpoint51" ath="165.436" atv="41.091"  style="Iconcallout_square" tag="point" descriptionid="spotpoint51_description" handcursor="false" tooltip="spotpoint51_tooltip"/>
         <hotspot name="spotpoint51" devices="flash" zorder="3"/>
         <hotspot name="spotpoint51" devices="html5" zorder="3" zorder2="1"/>
 
@@ -283,19 +283,19 @@
 		</image>
 		<hotspot name="spot1" style="hs_flycam" ath="-29.932" atv="-31.461" linkedscene="scene_2_toancanhbanngay" />
 
-         <hotspot name="spotpoint19" ath="-69.463" atv="1.007" style="Iconcallout_pano" tag="point" descriptionid="spotpoint19_description" handcursor="false" tooltip="spotpoint19_tooltip"/>
+         <hotspot name="spotpoint19" ath="-69.463" atv="1.007" style="Iconcallout_square" tag="point" descriptionid="spotpoint19_description" handcursor="false" tooltip="spotpoint19_tooltip"/>
         <hotspot name="spotpoint19" devices="flash" zorder="3"/>
         <hotspot name="spotpoint19" devices="html5" zorder="3" zorder2="1"/>
 
-		<hotspot name="spotpoint41"   ath="143.314" atv="-32.164" style="Iconcallout_pano" tag="point" descriptionid="spotpoint41_description" handcursor="false" tooltip="spotpoint41_tooltip"/>
+		<hotspot name="spotpoint41"   ath="143.314" atv="-32.164" style="Iconcallout_square" tag="point" descriptionid="spotpoint41_description" handcursor="false" tooltip="spotpoint41_tooltip"/>
         <hotspot name="spotpoint41" devices="flash" zorder="3"/>
         <hotspot name="spotpoint41" devices="html5" zorder="3" zorder2="1"/>
 
-        <hotspot name="spotpoint43" ath="28.068" atv="-6.536" style="Iconcallout_pano" tag="point" descriptionid="spotpoint43_description" handcursor="false" tooltip="spotpoint43_tooltip"/>
+        <hotspot name="spotpoint43" ath="28.068" atv="-6.536" style="Iconcallout_square" tag="point" descriptionid="spotpoint43_description" handcursor="false" tooltip="spotpoint43_tooltip"/>
         <hotspot name="spotpoint43" devices="flash" zorder="3"/>
         <hotspot name="spotpoint43" devices="html5" zorder="3" zorder2="1"/>
 
-         <hotspot name="spotpoint50" ath="-105.104" atv="-8.133"  style="Iconcallout_pano" tag="point" descriptionid="spotpoint50_description" handcursor="false" tooltip="spotpoint50_tooltip"/>
+         <hotspot name="spotpoint50" ath="-105.104" atv="-8.133"  style="Iconcallout_square" tag="point" descriptionid="spotpoint50_description" handcursor="false" tooltip="spotpoint50_tooltip"/>
         <hotspot name="spotpoint50" devices="flash" zorder="3"/>
         <hotspot name="spotpoint50" devices="html5" zorder="3" zorder2="1"/>
 
@@ -322,19 +322,19 @@
 		</image>
 		<hotspot name="spot1" style="hs_flycam" ath="-15.786" atv="-38.722" linkedscene="scene_3_toancanhsangsom" />
 
-        <hotspot name="spotpoint19" ath="-49.08" atv="-2.523" style="Iconcallout_pano" tag="point" descriptionid="spotpoint19_description" handcursor="false" tooltip="spotpoint19_tooltip"/>
+        <hotspot name="spotpoint19" ath="-49.08" atv="-2.523" style="Iconcallout_square" tag="point" descriptionid="spotpoint19_description" handcursor="false" tooltip="spotpoint19_tooltip"/>
         <hotspot name="spotpoint19" devices="flash" zorder="3"/>
         <hotspot name="spotpoint19" devices="html5" zorder="3" zorder2="1"/>
 
-		<hotspot name="spotpoint41"   ath="-179.631" atv="-37.924" style="Iconcallout_pano" tag="point" descriptionid="spotpoint41_description" handcursor="false" tooltip="spotpoint41_tooltip"/>
+		<hotspot name="spotpoint41"   ath="-179.631" atv="-37.924" style="Iconcallout_square" tag="point" descriptionid="spotpoint41_description" handcursor="false" tooltip="spotpoint41_tooltip"/>
         <hotspot name="spotpoint41" devices="flash" zorder="3"/>
         <hotspot name="spotpoint41" devices="html5" zorder="3" zorder2="1"/>
 
-        <hotspot name="spotpoint43" ath="48.886" atv="-8.275" style="Iconcallout_pano" tag="point" descriptionid="spotpoint43_description" handcursor="false" tooltip="spotpoint43_tooltip"/>
+        <hotspot name="spotpoint43" ath="48.886" atv="-8.275" style="Iconcallout_square" tag="point" descriptionid="spotpoint43_description" handcursor="false" tooltip="spotpoint43_tooltip"/>
         <hotspot name="spotpoint43" devices="flash" zorder="3"/>
         <hotspot name="spotpoint43" devices="html5" zorder="3" zorder2="1"/>
 
-         <hotspot name="spotpoint50" ath="-77.943" atv="-7.729"  style="Iconcallout_pano" tag="point" descriptionid="spotpoint50_description" handcursor="false" tooltip="spotpoint50_tooltip"/>
+         <hotspot name="spotpoint50" ath="-77.943" atv="-7.729"  style="Iconcallout_square" tag="point" descriptionid="spotpoint50_description" handcursor="false" tooltip="spotpoint50_tooltip"/>
         <hotspot name="spotpoint50" devices="flash" zorder="3"/>
         <hotspot name="spotpoint50" devices="html5" zorder="3" zorder2="1"/>
 
